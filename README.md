@@ -10,7 +10,10 @@ You need to install:
  - dnspython
 
 Here's how you can use the project:
-  Begin by setting up a MongoDB Cloud Server to store the extracted product information securely.
-     Next, ensure you have all the required dependencies installed by running the appropriate installation commands.
-        Finally,provide necessary arguments such as database name, table name, user name, and password
+
+  1.Begin by setting up a MongoDB Cloud Server to store the extracted product information securely.
+  
+     2.Next, ensure you have all the required dependencies installed by running the appropriate installation commands.
+     
+        3.Finally,provide necessary arguments such as database name, table name, user name, and password
  (these parameters are crucial for establishing a connection with the MongoDB database)and execute the project script.

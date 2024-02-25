@@ -1,0 +1,1 @@
+ self.url = "mongodb+srv://cernatbogdan9:Crenvusti23_1@cluster0.dmenccv.mongodb.net/"
